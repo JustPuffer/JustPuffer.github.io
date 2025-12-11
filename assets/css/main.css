@@ -6,6 +6,12 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+.logo {
+    display: flex;            /* enables flex layout */
+    justify-content: center;  /* horizontal centering */
+    align-items: center;      /* vertical centering */
+    height: 100px;            /* adjust to the height of your header/logo area */
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -1659,3 +1665,4 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
