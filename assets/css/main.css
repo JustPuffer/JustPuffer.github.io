@@ -10,7 +10,7 @@
     display: flex;            /* enables flex layout */
     justify-content: center;  /* horizontal centering */
     align-items: center;      /* vertical centering */
-    height: 100px;            /* adjust to the height of your header/logo area */
+    height: 50px;            /* adjust to the height of your header/logo area */
 }
 
 html, body, div, span, applet, object,
@@ -1665,4 +1665,5 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
