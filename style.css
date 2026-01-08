@@ -78,8 +78,8 @@ li {
 /* -------- Links -------- */
 
 a {
-  color: #f2f2f2; /* slightly brighter than body text */
-  text-decoration: bold;
+  color: #f2f2f2;
+  text-decoration: underline;
 }
 
 a:hover {
